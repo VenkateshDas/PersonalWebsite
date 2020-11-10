@@ -1,3 +1,3 @@
 # PersonalWebsite
 
-<a href="https://venkateshdas.github.io/PersonalWebsite/">Website</a>
+<a href="https://venkateshdas.github.io/resume/">Website</a>
